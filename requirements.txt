@@ -1,0 +1,5 @@
+requests
+loguru
+git-changelog
+uvicorn
+fastapi
